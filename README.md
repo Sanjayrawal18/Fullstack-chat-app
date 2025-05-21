@@ -2,6 +2,9 @@
 
 A full-featured real-time chat application that allows users to send and receive messages and images instantly using WebSockets.
 
+## Live demo:
+https://fullstack-chat-app-1txh.onrender.com/login
+
 ## 🚀 Features
 
 - Real-time communication with Socket.IO
@@ -16,10 +19,6 @@ A full-featured real-time chat application that allows users to send and receive
 - Real-Time: Socket.IO
 - Cloud Storage: Cloudinary
 - Styling: Tailwind CSS
-
-## 📸 Screenshots
-
-_Add relevant screenshots here._
 
 ## 🧪 Setup Instructions
 
