@@ -48,6 +48,9 @@ _Add relevant screenshots here._
    NODE_ENV=development
 
 5. Start the server and frontend:
-
    ```powershell
+   cd frontend
+   npm run dev
+
+   cd backend
    npm run dev
