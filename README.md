@@ -24,7 +24,7 @@ https://fullstack-chat-app-1txh.onrender.com/login
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/Sanjayrawal18/Fullstack-chat-app.git
    
 2. Install dependencies:
 
