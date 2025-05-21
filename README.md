@@ -29,13 +29,25 @@ _Add relevant screenshots here._
    
 2. Install dependencies:
 
-   ```bash
-cd chat-app
-npm install
+   ```powershell
+   cd chat-app
+   npm install
 
 3. Create a .env file with necessary environment variables (e.g., Cloudinary keys, port).
+   ```powershell
+   MONGODB_URI=
+   PORT=5001
+   
+   JWT_SECRET=
+   
+   
+   CLOUDINARY_CLOUD_NAME=
+   CLOUDINARY_API_KEY=
+   CLOUDINARY_API_SECRET=
 
-4. Start the server and frontend:
+   NODE_ENV=development
 
-   ```bash
-npm run dev
+5. Start the server and frontend:
+
+   ```powershell
+   npm run dev
